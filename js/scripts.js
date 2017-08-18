@@ -7,4 +7,4 @@ function drawTree(row) {
     }
 
 }
-drawTree(5);
+drawTree(10);
